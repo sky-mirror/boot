@@ -6,6 +6,8 @@
 
 這個package也引用了`github.com/urfave/cli/v2`作為Args解析的工具
 
+您可以參考[這份簡報](https://hackmd.io/@xnum/slides-monorepo-config#/)以理解解決思路。
+
 ## Installation
 
 ```
